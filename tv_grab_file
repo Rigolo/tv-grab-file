@@ -40,7 +40,7 @@ done
 
 if [ "$dflag" ]
 then
-   printf "tv_grag_file is a simple grabber that just read the ~/.xmltv/tv_grab_file.xmltv file\n"
+   printf "tv_grab_file is a simple grabber that just read the ~/.xmltv/tv_grab_file.xmltv file\n"
 fi
 if [ "$vflag" ]
 then
